@@ -56,17 +56,16 @@ A full-stack campus management system built with React.js, Spring Boot, MongoDB 
 
 ---
 
-### Tech Support Management System
+### Learning Management System (LMS)
 
-A web application developed using Java, JSP, Servlets and MySQL.
+A web-based Learning Management System developed to simplify online learning and course management.
 
-**Features**
-
+**Key Features**
+- Student and Lecturer Management
+- Course Enrollment
+- Assignment & Learning Material Management
 - User Authentication
-- Profile Management
-- CRUD Operations
-- Database Integration
-
+- Responsive Web Interface
 ---
 
 ## Currently Learning
